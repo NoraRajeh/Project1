@@ -25,7 +25,7 @@ img{
 ul{
     text-align: center;
     padding:10px;
-    text-decoration: dashed;
+    text-decoration:solid;
     list-style-type: none;
 }
 li{
